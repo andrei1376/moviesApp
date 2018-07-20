@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - ReachabilitySwift (4.1.0)
+  - UIImageColors (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireImage (~> 3.3)
+  - ReachabilitySwift
+  - UIImageColors
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - ReachabilitySwift
+    - UIImageColors
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  UIImageColors: 3ae0150e539342697808281a3975fe5dec2024ce
+
+PODFILE CHECKSUM: 65985fa40af84c8a68766649b86040d6c36304b5
+
+COCOAPODS: 1.5.3
