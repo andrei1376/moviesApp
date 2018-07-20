@@ -8,8 +8,8 @@
 
 ## Requirements
 
-- iOS 8.0+
-- Xcode 7.3
+- iOS 9.0+
+- Xcode 9.3
 
 [swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
 [swift-url]: https://swift.org/
